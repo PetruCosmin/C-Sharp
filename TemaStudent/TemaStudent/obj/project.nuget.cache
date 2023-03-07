@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "knEbYqh8EBGgm7s2DgF3EoSOlDjIUUNt4OvQU8zWwiCIaXxp62lUNsLj3k/HTwliwvUYpwVUnuIDchd+AH2jxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\petru\\source\\repos\\TemaStudent\\TemaStudent\\TemaStudent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\petru\\.nuget\\packages\\documentformat.openxml\\2.19.0\\documentformat.openxml.2.19.0.nupkg.sha512",
+    "C:\\Users\\petru\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

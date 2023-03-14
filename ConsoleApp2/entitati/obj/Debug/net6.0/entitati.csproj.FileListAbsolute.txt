@@ -1,0 +1,12 @@
+C:\Users\petru\source\repos\ConsoleApp2\entitati\bin\Debug\net6.0\entitati.deps.json
+C:\Users\petru\source\repos\ConsoleApp2\entitati\bin\Debug\net6.0\entitati.dll
+C:\Users\petru\source\repos\ConsoleApp2\entitati\bin\Debug\net6.0\entitati.pdb
+C:\Users\petru\source\repos\ConsoleApp2\entitati\obj\Debug\net6.0\entitati.csproj.AssemblyReference.cache
+C:\Users\petru\source\repos\ConsoleApp2\entitati\obj\Debug\net6.0\entitati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petru\source\repos\ConsoleApp2\entitati\obj\Debug\net6.0\entitati.AssemblyInfoInputs.cache
+C:\Users\petru\source\repos\ConsoleApp2\entitati\obj\Debug\net6.0\entitati.AssemblyInfo.cs
+C:\Users\petru\source\repos\ConsoleApp2\entitati\obj\Debug\net6.0\entitati.csproj.CoreCompileInputs.cache
+C:\Users\petru\source\repos\ConsoleApp2\entitati\obj\Debug\net6.0\entitati.dll
+C:\Users\petru\source\repos\ConsoleApp2\entitati\obj\Debug\net6.0\refint\entitati.dll
+C:\Users\petru\source\repos\ConsoleApp2\entitati\obj\Debug\net6.0\entitati.pdb
+C:\Users\petru\source\repos\ConsoleApp2\entitati\obj\Debug\net6.0\ref\entitati.dll

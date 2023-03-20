@@ -6,30 +6,34 @@ using System.Threading.Tasks;
 
 namespace entitati
 {
-    public class Produs
+    public class Produs: ProdusAbstract    //dam referinta clasa produs...
     {
-        private uint id;// identificator
+        private string? id;// identificator
         private String? nume;// numele produsului
         private String? codIntern;// codul Intern
         private String? producator;// producator
 
-        public Produs(uint id, string? nume, string? codIntern, string? producator)
+        public Produs(string? id, string? nume, string? codIntern, string? producator): base (id, nume, codIntern)      //mostenire din clasa Produs
         {
-            this.id = id;
-            this.nume = nume;
-            this.codIntern = codIntern;
+           
             this.producator = producator;
         }
 
-        public static void Pro(Produs[] produse,uint nrProduse)
+        public string? Producator { get => producator; set => producator = value; }
+
+
+        public override string Descriere()
         {
-            Console.WriteLine("============================");
-            Console.WriteLine("Produsele sunt:");
-            for (int cnt = 0; cnt < nrProduse; cnt++)
-            {
-                Produs prod = produse[cnt];
-                Console.WriteLine("\nProdus: " + prod.nume +"\nCod intern:[" + prod.codIntern + "] \nProducator:" + prod.producator);
-            }
+            return "Produsul: " + this.Nume + "[" + this.Codintern + "] " + this.Producator;
+
         }
+
+        public override string AltaDescriere()
+        {
+            return "Produsul: " + base.AltaDescriere() + this.Producator;
+        }
+
+        
+
     }
 }
